@@ -1,6 +1,6 @@
 # EL_Marco_App_Mockup
 
-![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png?raw=true = 600x600)
+![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png?raw=true | width=500 | height=500 )
 
 ![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/welcome.png?raw=false)
 
