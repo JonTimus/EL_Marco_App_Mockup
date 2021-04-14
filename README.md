@@ -1,9 +1,8 @@
 # EL_Marco_App_Mockup
 
-https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png
-![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png?raw=false)
+![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png?raw=true)
+
 ![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/welcome.png?raw=false)
-![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/select.png?raw=false)
 
 ## Preview tips
 
