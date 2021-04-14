@@ -1,0 +1,40 @@
+﻿<mockup ID="05478F52-6FC6-4D94-9FC4-516B2E3763EB" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3">
+  <controls controlCount="3">
+    <control controlID="227B4D5D-6B3F-4478-906E-1B782D237BAD" controlTypeID="Icon" x="145" y="64" w="86" h="86" zOrder="0">
+      <color>4294901886</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61508</iconCode>
+      </icon>
+      <URL>4C4B8FA8108FC56D0D2BD6A0A4E9D09F.svg</URL>
+    </control>
+    <control controlID="ACB613F3-71EE-4148-8AF3-92BC3AD4B275" controlTypeID="TextArea" x="20" y="187" w="335" h="117" zOrder="1">
+      <borderColor>4282664004</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Write+at+least+1+review+to+unlock+the+leader+board+feature</text>
+      <textSize>16</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EF0504EF-D53F-4527-86E9-F3B175F1B9D8" controlTypeID="Button" x="10" y="278" w="355" h="48" zOrder="2">
+      <color>4294901886</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Write+a+Review</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+      <isAutoTextColor>True</isAutoTextColor>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4288282623</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+    <fontSize>14</fontSize>
+  </param>
+</mockup>

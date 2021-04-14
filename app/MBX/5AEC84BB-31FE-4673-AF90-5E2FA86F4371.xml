@@ -1,0 +1,115 @@
+﻿<mockup ID="5AEC84BB-31FE-4673-AF90-5E2FA86F4371" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3" clipArea="(0,0,0,0)">
+  <controls controlCount="10">
+    <control controlID="3A444286-5B6C-409C-9AE4-7F9C7B1C36A7" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <opacity>0.600000023841858</opacity>
+      <URL>9BABA17D422A865C03C5869402E59C46.jpg</URL>
+      <showText>False</showText>
+    </control>
+    <control controlID="4EFA4DDF-54EB-4365-A001-E82BC7187B0B" controlTypeID="Icon" x="10" y="10" w="14" h="14" zOrder="1">
+      <color>4288256409</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="command:back" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{49C75C0C-AD51-4E48-ACF8-38D13A60F611}" coords="(0,0,14,14)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62468</iconCode>
+      </icon>
+      <URL>D461B89CFC537DBAD724FAD78224FD94.svg</URL>
+    </control>
+    <control controlID="85A48DA0-A264-4C14-A27B-3A084536C33F" controlTypeID="Label" x="115" y="59" w="147" h="21" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+In+With+Email</text>
+      <textColor>4281571839</textColor>
+      <textSize>18</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ED667A78-B536-45CB-9642-A72B06F7D7E6" controlTypeID="Shape" x="41" y="100" w="294" h="44" zOrder="3">
+      <color>4293980400</color>
+      <borderColor>4293980400</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4293980400</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="18ED385F-F4A2-4660-B76A-CF2895F05653" controlTypeID="Shape" x="41" y="150" w="294" h="44" zOrder="4">
+      <color>4293980400</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="5F58F567-4560-4A36-A5EF-FADB2165640B" controlTypeID="Shape" x="41" y="216" w="294" h="44" zOrder="5">
+      <color>4278216345</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="895C8ADD-79B7-4A6E-90FE-68702D4E5B95" linkType="ltPageLink" isApplyIncludePage="False" title="welcome">
+          <area shape="0" alt="" ID="{F97CF051-4AA4-49FC-8B08-DF330D100803}" coords="(0,0,294,44)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+In</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="CAF110D8-0BCE-4B33-8F7A-7204ACD676DB" controlTypeID="Shape" x="41" y="278" w="294" h="44" zOrder="6">
+      <color>3355443</color>
+      <borderColor>4278255615</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9059FBD9-4C06-4F6F-93BE-13DFF1C61636" linkType="ltPageLink" isApplyIncludePage="False" title="sign+up">
+          <area shape="0" alt="" ID="{F97CF051-4AA4-49FC-8B08-DF330D100803}" coords="(0,0,294,44)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Need+an+account%3F</text>
+      <textColor>4281571788</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="21EB091E-7EB9-42C1-87E1-117D4EB12DD6" controlTypeID="Shape" x="41" y="336" w="294" h="44" zOrder="7">
+      <color>3355443</color>
+      <borderColor>4278190080</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+in+with+Twitter</text>
+      <textColor>4281571788</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="380D1A2E-5380-49E6-A01D-2D8FCCD3B2FF" controlTypeID="TextInput" x="48" y="102" w="281" h="39" zOrder="8">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Email</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0CAB2199-780D-4998-A8CE-86F6D4CD953F" controlTypeID="TextInput" x="48" y="153" w="281" h="39" zOrder="9">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Password</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281571788</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+    <fontSize>14</fontSize>
+  </param>
+</mockup>

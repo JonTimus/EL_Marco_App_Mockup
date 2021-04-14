@@ -1,0 +1,128 @@
+﻿<mockup ID="895C8ADD-79B7-4A6E-90FE-68702D4E5B95" clipArea="(0,0,0,0)" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3">
+  <controls controlCount="12">
+    <control controlID="0986947B-89EB-42F0-8F5F-38727C4AE169" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <opacity>0.899999976158142</opacity>
+      <URL>9BABA17D422A865C03C5869402E59C46.jpg</URL>
+      <showText>False</showText>
+    </control>
+    <control controlID="CF0D14E4-EB53-42D6-85A1-92E05F61C9F5" controlTypeID="Label" x="125" y="58" w="142" h="37" zOrder="1">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Welcome!</text>
+      <textColor>4278242559</textColor>
+      <textSize>32</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="53F479E5-97ED-4EA8-B2EE-83FDCDE7BDC8" controlTypeID="TextArea" x="74" y="123" w="240" h="117" zOrder="2">
+      <borderColor>4282664004</borderColor>
+      <font family="Cambria" displayName="Cambria" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Mentorship+%26+Recommendation+System+for+Individual+Developers+and+Small+Companies</text>
+      <textColor>4278242559</textColor>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A46E0DA0-A206-4789-9FB8-8789EACE244D" controlTypeID="Label" x="130" y="270" w="201" h="28" zOrder="3">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Tools+and+Methods</text>
+      <textColor>4278242559</textColor>
+      <textSize>24</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1992B978-B62A-45D8-A3E9-ED742F953BED" controlTypeID="Label" x="130" y="331" w="160" h="28" zOrder="4">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Cross-Platform</text>
+      <textColor>4278242559</textColor>
+      <textSize>24</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AA044730-8E9A-457F-87DE-64E3B035FC04" controlTypeID="Label" x="130" y="404" w="131" h="28" zOrder="5">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>All-day+Chat</text>
+      <textColor>4278242559</textColor>
+      <textSize>24</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3056E9BB-23C1-4F55-89E7-B1E15282FBA1" controlTypeID="Label" x="130" y="468" w="212" h="28" zOrder="6">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Artificial+Intelligence</text>
+      <textColor>4278242559</textColor>
+      <textSize>24</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="616300C7-461A-4794-B236-E2BBDEA2A368" controlTypeID="Button" x="20" y="605" w="335" h="42" zOrder="7">
+      <color>4278216345</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0F14120A-622B-4236-B671-68AF6BB11CA9" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{08A2255A-C22C-4332-89F6-889E141E7E0C}" coords="(0,0,335,42)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Great%2C+let's+go!</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+      <isAutoTextColor>True</isAutoTextColor>
+    </control>
+    <control controlID="F87B865A-C7E3-403F-8F4B-1F5253EB5766" controlTypeID="Icon" x="56" y="256" w="55" h="55" zOrder="8">
+      <color>4278242559</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61729</iconCode>
+      </icon>
+      <URL>F8ACF55E0EEC7EAFEC89C29C00757535.svg</URL>
+    </control>
+    <control controlID="A6157434-5768-498A-AADC-80DB25C58E0B" controlTypeID="Icon" x="60" y="395" w="46" h="46" zOrder="9">
+      <color>4278242559</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61724</iconCode>
+      </icon>
+      <URL>70D85F94236C33BFA9119C2CF0538C4E.svg</URL>
+    </control>
+    <control controlID="1D4962B3-1881-4C04-A9B1-B7D98C55D27E" controlTypeID="Icon" x="59" y="321" w="48" h="48" zOrder="10">
+      <color>4278242559</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62336</iconCode>
+      </icon>
+      <URL>76118A001D7B98003E1AE08ACA6CEB2B.svg</URL>
+    </control>
+    <control controlID="D90BAFA9-F6FD-454F-B2FF-A245F8E381B0" controlTypeID="Icon" x="56" y="457" w="51" h="51" zOrder="11">
+      <color>4278242559</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoFont</iconFontName>
+        <iconCode>59124</iconCode>
+      </icon>
+      <URL>D734FE301EE073D1BCF0BB9291D24F3F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+    <fontSize>14</fontSize>
+  </param>
+</mockup>

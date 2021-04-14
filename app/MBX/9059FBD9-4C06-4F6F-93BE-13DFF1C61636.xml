@@ -1,0 +1,170 @@
+﻿<mockup ID="9059FBD9-4C06-4F6F-93BE-13DFF1C61636" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3" clipArea="(0,0,0,0)">
+  <controls controlCount="17">
+    <control controlID="AC5D24EB-812C-47E8-A9FA-873CAD71A68B" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <opacity>0.600000023841858</opacity>
+      <URL>9BABA17D422A865C03C5869402E59C46.jpg</URL>
+      <showText>False</showText>
+    </control>
+    <control controlID="DE6393A3-E774-422D-A928-6A9DBED6D1FE" controlTypeID="Icon" x="10" y="10" w="14" h="14" zOrder="1">
+      <color>4288256409</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="command:back" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{49C75C0C-AD51-4E48-ACF8-38D13A60F611}" coords="(0,0,14,14)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62468</iconCode>
+      </icon>
+      <URL>D461B89CFC537DBAD724FAD78224FD94.svg</URL>
+    </control>
+    <control controlID="92B9745E-9422-41D5-8EDC-7EFEC663708B" controlTypeID="Label" x="114" y="59" w="148" h="21" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Create+an+Account</text>
+      <textColor>4281571788</textColor>
+      <textSize>18</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2E49221D-FE3C-4B72-9978-80821508F3A3" controlTypeID="Shape" x="41" y="150" w="294" h="44" zOrder="3">
+      <color>4293980400</color>
+      <borderColor>4293980400</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="81ECE535-599A-44BD-AB00-CF835EDCE41C" controlTypeID="Shape" x="41" y="200" w="294" h="44" zOrder="4">
+      <color>4293980400</color>
+      <borderColor>4293980400</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="3B7ED057-C3E3-40E5-8D76-CB738D95C978" controlTypeID="Shape" x="41" y="250" w="294" h="44" zOrder="5">
+      <color>4293980400</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="389D0B11-AA81-464A-8ECA-2A340732721B" controlTypeID="Shape" x="41" y="301" w="294" h="44" zOrder="6">
+      <color>4293980400</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="44C9A143-F2FD-4AC5-937E-6A6AC66BFCB8" controlTypeID="Shape" x="41" y="363" w="294" h="44" zOrder="7">
+      <color>4278216345</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="895C8ADD-79B7-4A6E-90FE-68702D4E5B95" linkType="ltPageLink" isApplyIncludePage="False" title="welcome">
+          <area shape="0" alt="" ID="{F97CF051-4AA4-49FC-8B08-DF330D100803}" coords="(0,0,294,44)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+Up</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="24C1A4D6-1ADD-4085-A98F-0D08487087A4" controlTypeID="Shape" x="41" y="452" w="294" h="44" zOrder="8">
+      <color>3355443</color>
+      <borderColor>4278216345</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5AEC84BB-31FE-4673-AF90-5E2FA86F4371" linkType="ltPageLink" isApplyIncludePage="False" title="sign+in">
+          <area shape="0" alt="" ID="{F97CF051-4AA4-49FC-8B08-DF330D100803}" coords="(0,0,294,44)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Already+have+an+account%3F</text>
+      <textColor>4281571788</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="D9D3573D-540F-48C2-9850-3D6D75230B5C" controlTypeID="__group__" x="41" y="100" w="294" h="44" zOrder="9">
+      <groupChildrenDescriptors>
+        <control controlID="C614CB69-F93F-4F9C-B0A0-4978380F990C" controlTypeID="Shape" x="0" y="0" w="294" h="44" zOrder="0">
+          <color>4293980400</color>
+          <borderVisible>False</borderVisible>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="E14D11C0-0E9D-4E0F-8B6C-AC723AEE1507" controlTypeID="TextInput" x="3" y="2" w="281" h="39" zOrder="1">
+          <color>16777215</color>
+          <borderColor>6710886</borderColor>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>First+Name</text>
+          <textColor>4288256409</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3B37841F-D178-4698-9303-08B4CFE727FE" controlTypeID="TextInput" x="48" y="153" w="281" h="39" zOrder="10">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Last+Name</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D1BB2CBC-DF9B-4CAC-B0FC-82AC2A452F76" controlTypeID="TextInput" x="48" y="203" w="281" h="39" zOrder="11">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home+Town</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EC8ABEF0-941E-4BC2-B8C7-06701EF101C5" controlTypeID="TextInput" x="48" y="253" w="281" h="39" zOrder="12">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Email</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="13874E17-F6AA-4018-8136-2744D22312FD" controlTypeID="TextInput" x="48" y="303" w="281" h="39" zOrder="13">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Password</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D62D942F-7F0A-44D6-8D2E-F69DBCD37D7B" controlTypeID="TextArea" x="59" y="417" w="255" h="25" zOrder="14">
+      <borderColor>4282664004</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>By+pressing+Sign+Up+you+agree+with+the+Terms+of+Services+and+Privacy+Policy</text>
+      <textColor>4291611852</textColor>
+      <textSize>10</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281571788</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+    <fontSize>14</fontSize>
+  </param>
+</mockup>

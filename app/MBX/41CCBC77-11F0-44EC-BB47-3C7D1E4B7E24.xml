@@ -1,0 +1,70 @@
+﻿<mockup ID="41CCBC77-11F0-44EC-BB47-3C7D1E4B7E24" clipArea="(0,0,0,0)" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3">
+  <controls controlCount="7">
+    <control controlID="981BDD3E-49C6-43C0-945E-57D631072BDB" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <opacity>0.800000011920929</opacity>
+      <URL>508A730581952733125DE4EC1F24B832.jpg</URL>
+    </control>
+    <control controlID="EF9EAA35-E538-4921-BA63-E4AE597A1001" controlTypeID="Button" x="20" y="538" w="335" h="48" zOrder="1">
+      <color>4278216345</color>
+      <borderColor>4281545523</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Continue+with+Facebook</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>0</radius>
+      <isAutoTextColor>True</isAutoTextColor>
+    </control>
+    <control controlID="DDC87759-DF40-464C-BA87-4BD6D6D27CF8" controlTypeID="Button" x="192" y="596" w="163" h="48" zOrder="2">
+      <color>563714457</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9059FBD9-4C06-4F6F-93BE-13DFF1C61636" linkType="ltPageLink" isApplyIncludePage="False" title="sign+up">
+          <area shape="0" alt="" ID="{7DE6BAB6-E33B-437F-98DC-36CB3FC040F5}" coords="(0,0,163,48)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+Up</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="97139005-4B3F-487B-91B9-402424672FC6" controlTypeID="Button" x="20" y="596" w="163" h="48" zOrder="3">
+      <color>563714457</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="895C8ADD-79B7-4A6E-90FE-68702D4E5B95" linkType="ltPageLink" isApplyIncludePage="False" title="welcome">
+          <area shape="0" alt="" ID="{7DE6BAB6-E33B-437F-98DC-36CB3FC040F5}" coords="(0,0,163,48)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Skip</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="BDC580FE-96FD-41A6-A8D4-4DCB1CBE99A5" controlTypeID="Icon" x="37" y="550" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62001</iconCode>
+      </icon>
+      <URL>29F37D064345EFF092FDE43A909201C4.svg</URL>
+    </control>
+    <control controlID="B08E1715-D09A-49B4-8A4D-DDF8A0126065" controlTypeID="Image" x="125" y="30" w="126" h="142" zOrder="5">
+      <URL>646E7A13DD9453EEE46D0782EFAA16F8.png</URL>
+    </control>
+    <control controlID="C71B517F-7925-4D79-94C4-F1BCDE8FC21E" controlTypeID="Image" x="10" y="200" w="355" h="78" zOrder="6">
+      <URL>27585432B2AC3709C1720218B4D82507.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4288282623</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <fontSize>14</fontSize>
+    <guideLines/>
+  </param>
+</mockup>

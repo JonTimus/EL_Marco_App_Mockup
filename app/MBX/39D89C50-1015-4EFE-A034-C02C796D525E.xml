@@ -1,0 +1,231 @@
+﻿<mockup ID="2120B5B4-7146-4D7F-B235-DB6886841798" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3" clipArea="(0,0,0,0)">
+  <controls controlCount="30">
+    <control controlID="67C51986-C63B-4F1A-A946-A2417F39F5B8" controlTypeID="__group__" x="15" y="47" w="68" h="68" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="2D0D07D7-B638-45B9-AF4F-21B8285DB5AA" controlTypeID="Icon" x="0" y="0" w="68" h="68" zOrder="0">
+          <color>4278242559</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61445</iconCode>
+          </icon>
+          <URL>1DF174D9AE752B1FC4C71308CE69EBA5.svg</URL>
+        </control>
+        <control controlID="1AB7E400-D743-4924-8FAE-8AAB44E9DFD6" controlTypeID="Label" x="27" y="22" w="13" h="28" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>1</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="EFB6E8C2-AA2E-45D0-AB72-7B35155D6724" controlTypeID="ProgressBar" x="93" y="68" w="190" h="11" zOrder="1">
+      <borderColor>4279815605</borderColor>
+      <indicatorColor>4279809485</indicatorColor>
+    </control>
+    <control controlID="8D19DB92-4AE7-4051-B265-999E05FFD4FA" controlTypeID="__group__" x="293" y="47" w="68" h="68" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="56C3BB06-3E28-497B-8436-39F951B52705" controlTypeID="Icon" x="0" y="0" w="68" h="68" zOrder="0">
+          <color>4281584895</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61445</iconCode>
+          </icon>
+          <URL>1DF174D9AE752B1FC4C71308CE69EBA5.svg</URL>
+        </control>
+        <control controlID="B665C4D7-4460-441B-BB90-0689CFF1A684" controlTypeID="Icon" x="24" y="25" w="20" h="20" zOrder="1">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62551</iconCode>
+          </icon>
+          <URL>816F4E91F94ADDBB1B74D66AACA8B462.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="D09565BA-2369-4D6B-AE4D-12B3581679BB" controlTypeID="Label" x="136" y="89" w="120" h="17" zOrder="3">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1+review+to+level+up</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6ECD2633-D071-460A-985D-44AFAEA10C54" controlTypeID="Label" x="31" y="125" w="33" h="17" zOrder="4">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Noob</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A0DF52C3-B22B-444F-8890-72E88296CE2E" controlTypeID="Label" x="310" y="125" w="42" h="17" zOrder="5">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Starter</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="68CF0D60-CEF1-4845-A006-ADF12EEB6FB2" controlTypeID="__group__" x="15" y="165" w="68" h="68" zOrder="6">
+      <groupChildrenDescriptors>
+        <control controlID="CC14990B-D0BB-4585-889A-859329C7B43D" controlTypeID="Icon" x="0" y="0" w="68" h="68" zOrder="0">
+          <color>4278242559</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61445</iconCode>
+          </icon>
+          <URL>1DF174D9AE752B1FC4C71308CE69EBA5.svg</URL>
+        </control>
+        <control controlID="49AE731D-6FD6-47BE-8F59-64BC4569B510" controlTypeID="Label" x="27" y="22" w="13" h="28" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>2</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="62B83D6A-2411-46D6-A34A-1F7F4F9EBB86" controlTypeID="ProgressBar" x="93" y="186" w="190" h="11" zOrder="7">
+      <borderColor>4279815605</borderColor>
+      <progress>50</progress>
+      <indicatorColor>4279809485</indicatorColor>
+    </control>
+    <control controlID="06344F86-14CD-48A7-AE50-26610F34D864" controlTypeID="__group__" x="293" y="165" w="68" h="68" zOrder="8">
+      <groupChildrenDescriptors>
+        <control controlID="63B83C85-16C1-43A2-A816-B7F80156B823" controlTypeID="Icon" x="0" y="0" w="68" h="68" zOrder="0">
+          <color>4281584895</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61445</iconCode>
+          </icon>
+          <URL>1DF174D9AE752B1FC4C71308CE69EBA5.svg</URL>
+        </control>
+        <control controlID="B0E12BC3-372A-41D7-99D3-E62340CE9CEA" controlTypeID="Icon" x="24" y="25" w="20" h="20" zOrder="1">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62551</iconCode>
+          </icon>
+          <URL>816F4E91F94ADDBB1B74D66AACA8B462.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="CB72D35A-8A9B-45D9-B638-D3107E369270" controlTypeID="Label" x="136" y="207" w="120" h="17" zOrder="9">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1+review+to+level+up</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8EF61B1A-34FF-4631-984D-2DE5659D3B07" controlTypeID="Label" x="25" y="243" w="48" h="17" zOrder="10">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Learner</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6978AC2E-CD38-4865-9E08-0858DAAF3901" controlTypeID="Label" x="300" y="243" w="55" h="17" zOrder="11">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Achiever</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="433368AE-7C31-48AA-84E7-5ADCF37D15E4" controlTypeID="__group__" x="10" y="291" w="68" h="68" zOrder="12">
+      <groupChildrenDescriptors>
+        <control controlID="1EE2EF8E-4DDD-4021-8E61-C7DFDD33B4EE" controlTypeID="Icon" x="0" y="0" w="68" h="68" zOrder="0">
+          <color>4278242559</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61445</iconCode>
+          </icon>
+          <URL>1DF174D9AE752B1FC4C71308CE69EBA5.svg</URL>
+        </control>
+        <control controlID="348F80A5-4747-431A-BCEC-09403139FE49" controlTypeID="Label" x="27" y="22" w="13" h="28" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>3</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="556187A9-3F89-4F93-AD30-C1339369C40F" controlTypeID="ProgressBar" x="88" y="312" w="190" h="11" zOrder="13">
+      <borderColor>4279815605</borderColor>
+      <progress>80</progress>
+      <indicatorColor>4279809485</indicatorColor>
+    </control>
+    <control controlID="2BD430F8-1294-482D-BC19-2F8BE3D03057" controlTypeID="__group__" x="288" y="291" w="68" h="68" zOrder="14">
+      <groupChildrenDescriptors>
+        <control controlID="2BA875A1-9CE6-4D8A-8603-443464ADFBBE" controlTypeID="Icon" x="0" y="0" w="68" h="68" zOrder="0">
+          <color>4281584895</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61445</iconCode>
+          </icon>
+          <URL>1DF174D9AE752B1FC4C71308CE69EBA5.svg</URL>
+        </control>
+        <control controlID="DC523714-76C9-4493-A5F2-E6C4495C3EB2" controlTypeID="Icon" x="24" y="25" w="20" h="20" zOrder="1">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62551</iconCode>
+          </icon>
+          <URL>816F4E91F94ADDBB1B74D66AACA8B462.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="A9DCD8E4-3A87-4112-88DE-39080757710F" controlTypeID="Label" x="131" y="333" w="120" h="17" zOrder="15">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1+review+to+level+up</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5F8B2B08-5C61-415B-A546-7989F07A1EA7" controlTypeID="Label" x="13" y="369" w="62" h="17" zOrder="16">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Advanced</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D4EF3B6F-B795-4758-AB4C-AEDE5D2BA435" controlTypeID="Label" x="305" y="369" w="56" h="17" zOrder="17">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Magician</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281571839</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+    <fontSize>14</fontSize>
+  </param>
+</mockup>

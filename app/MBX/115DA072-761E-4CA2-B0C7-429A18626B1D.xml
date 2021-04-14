@@ -1,0 +1,87 @@
+﻿<mockup ID="115DA072-761E-4CA2-B0C7-429A18626B1D" clipArea="(0,0,0,0)" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3">
+  <controls controlCount="8">
+    <control controlID="07FFD0B0-1BD4-4EC1-BCFF-13B8CF1D3253" controlTypeID="Image" x="0" y="193" w="375" h="271" zOrder="0">
+      <fitMode>fmFit</fitMode>
+      <showText>False</showText>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="A2D1EF4E-71F1-4BB3-AA48-93E39A2F1368" controlTypeID="Button" x="269" y="26" w="86" h="29" zOrder="1">
+      <color>16777215</color>
+      <borderColor>4293190884</borderColor>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="B6A44BE7-AD08-4E44-8E33-F73D58994250" linkType="ltPageLink" isApplyIncludePage="False" title="activity">
+          <area shape="0" alt="" ID="{F3B14BC6-9B63-4302-8EF0-040E34F622D7}" coords="(0,0,86,29)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Done</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>2</radius>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="7BD4CB5A-8AA0-4275-8705-49C09DD240B9" controlTypeID="Label" x="20" y="621" w="58" h="17" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Juno+Kim</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="D72FA697-9466-4C88-809C-9FC1092D6691" controlTypeID="Label" x="20" y="640" w="176" h="14" zOrder="3">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Tapioca+Express+Bel-Red+Branch</text>
+      <textColor>4284900966</textColor>
+      <textSize>12</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0EF17C15-8C81-4710-9E2A-4903135E8A34" controlTypeID="Icon" x="265" y="630" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62531</iconCode>
+      </icon>
+      <URL>56A0A730410AD4F48CCE39E936D51CFD.svg</URL>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="CAF1A7E0-0B3B-43B0-B908-9DE0AD657200" controlTypeID="Label" x="293" y="633" w="8" h="17" zOrder="5">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>0</text>
+      <textColor>4294967295</textColor>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="E1E9A0AA-9F7C-4C3A-B39B-34905B566128" controlTypeID="Icon" x="325" y="626" w="26" h="26" zOrder="6">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62666</iconCode>
+      </icon>
+      <URL>69343460E9407CF814C54637629A380F.svg</URL>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="CADC387F-9214-4A35-A58D-664AFED1C304" controlTypeID="Label" x="10" y="435" w="258" h="17" zOrder="7">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>TAPIOCA+EXPRESS+BEL-RED+BRRNCH</text>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <textSize>14</textSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4288282623</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+    <fontSize>14</fontSize>
+  </param>
+</mockup>

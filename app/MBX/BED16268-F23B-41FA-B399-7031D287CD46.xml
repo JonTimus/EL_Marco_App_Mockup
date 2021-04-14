@@ -1,0 +1,163 @@
+﻿<mockup ID="BED16268-F23B-41FA-B399-7031D287CD46" clipArea="(0,0,0,0)" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3">
+  <controls controlCount="12">
+    <control controlID="79FDC194-FB87-4D0D-A68A-19D53AEACF55" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>4294967295</color>
+    </control>
+    <control controlID="4D7B6A12-D668-4D9B-8B5E-FC1C6229A6F7" controlTypeID="Shape" x="0" y="20" w="375" h="44" zOrder="1">
+      <borderColor>4291611852</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[bmBottom]</borderMode>
+    </control>
+    <control controlID="0688A748-094B-43B5-9104-48632D11179B" controlTypeID="Icon" x="10" y="33" w="18" h="18" zOrder="2">
+      <color>4294901886</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1930785E-6B1F-484C-B044-0FF538926495" linkType="ltPageLink" isApplyIncludePage="False" title="more">
+          <area shape="0" alt="" ID="{871BA88B-5137-4D64-8DA3-BC9C8AAABACE}" coords="(0,0,18,18)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="9753EBE0-8256-4D1D-8897-B65B7DBF8500" controlTypeID="Label" x="144" y="33" w="89" h="19" zOrder="3">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Find+Friends</text>
+      <textSize>16</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="221E5E9E-2D1F-4872-ACF6-AD715DCB708B" controlTypeID="ButtonBar" x="0" y="64" w="375" h="48" zOrder="4">
+      <color>4293651435</color>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="Text">
+          <area shape="0" alt="" ID="{A7AAD89A-E1C7-455C-9F89-30B3E371D95C}" coords="(0,0,125,48)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="3C11328D-B71E-480B-9C9E-E5C504290E41" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+        <entry title="Email">
+          <area shape="0" alt="" ID="{63AB3A54-601F-4DC7-947D-7773BAF338E8}" coords="(125,0,250,48)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="3C11328D-B71E-480B-9C9E-E5C504290E41" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="1" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+        <entry title="Gogobot">
+          <area shape="0" alt="" ID="{EBCD1642-00EB-420F-8E28-59ADE0DCA459}" coords="(250,0,375,48)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="3C11328D-B71E-480B-9C9E-E5C504290E41" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Switch Stack Panel" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="SelecedIndex" value="2" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Text%2CEmail%2CGogobot</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4294967295</selectedColor>
+    </control>
+    <control controlID="3C11328D-B71E-480B-9C9E-E5C504290E41" controlTypeID="ContentPanel" x="0" y="112" w="375" h="555" zOrder="5">
+      <groupChildrenDescriptors>
+        <control controlID="6D885B98-CF74-4A86-950E-18F2A2F786E6" controlTypeID="ScrollArea" x="0" y="0" w="375" h="555" zOrder="0">
+          <caption>Text</caption>
+          <canMove>False</canMove>
+          <alias>Text</alias>
+          <groupChildrenDescriptors>
+            <control controlID="A726D4FB-FDC7-42EF-926F-77D12E1290C3" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{D86BF271-5812-4FB7-AFF5-C893BA7058BE}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="F2759DCD-AC22-4320-9442-E4CA088C467E" controlTypeID="ScrollArea" x="0" y="0" w="375" h="555" zOrder="1">
+          <caption>email</caption>
+          <canMove>False</canMove>
+          <alias>email</alias>
+          <groupChildrenDescriptors>
+            <control controlID="A27AB0AF-59F7-487C-AFDB-1365FF0455C1" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{6782F09A-42E3-421D-817D-63DE865CF414}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7FC186AB-33CE-4950-A4A2-164591DEC42D" controlTypeID="ScrollArea" x="0" y="0" w="375" h="555" zOrder="2">
+          <caption>gogobot</caption>
+          <canMove>False</canMove>
+          <alias>gogobot</alias>
+          <groupChildrenDescriptors>
+            <control controlID="E445BC3B-DBD7-4A7D-AA90-33A51FC5C4A8" controlTypeID="ScrollViewPort" x="0" y="0" w="300" h="300" zOrder="0">
+              <caption>ScrollViewPort</caption>
+              <alias>viewPort</alias>
+              <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltIncludePage" isApplyIncludePage="True" title="%E9%93%BE%E6%8E%A5">
+                  <area shape="0" alt="" ID="{F3FAAACD-9B51-4819-872D-BD233EF7D2DF}" coords="(0,0,300,300)"/>
+                </link>
+              </links>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

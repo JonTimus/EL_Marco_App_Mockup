@@ -1,0 +1,88 @@
+﻿<mockup ID="1A5C1B5E-1EFB-4DD2-87A8-B1EA6F7988E2" clipArea="(0,0,0,0)" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="5.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="5.3">
+  <controls controlCount="8">
+    <control controlID="A79341CF-4587-468E-B9FB-1DF43820BA66" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>4294967295</color>
+    </control>
+    <control controlID="2F6721B6-E41E-47B2-AD33-9575836275A5" controlTypeID="Label" x="92" y="32" w="193" h="21" zOrder="1">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Confirm+Your+Home+City</text>
+      <textColor>4281545523</textColor>
+      <textSize>18</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B9435620-0AAF-4AC0-BEA9-11E66B74A52E" controlTypeID="Label" x="334" y="34" w="31" h="19" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="964CD19D-AE13-4A5F-A092-B263C3EC0907" linkType="ltPageLink" isApplyIncludePage="False" title="nav">
+          <area shape="0" alt="" ID="{5CFFCF5E-82A5-4400-9C17-71B5FE591BD4}" coords="(0,0,31,19)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Skip</text>
+      <textColor>4288256409</textColor>
+      <textSize>16</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="40102CD6-48D9-4BC6-9436-95917D5BA572" controlTypeID="Icon" x="149" y="95" w="74" h="74" zOrder="3">
+      <color>4294901886</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61461</iconCode>
+      </icon>
+      <URL>E447C8EF21DE64EDDB03C3EF95A290A3.svg</URL>
+    </control>
+    <control controlID="79FEEFA3-0967-4136-8A53-6DFD6CC23D8E" controlTypeID="Line" x="24" y="236" w="325" h="1" zOrder="4">
+      <color>4291611852</color>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(163,0)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(325,0)</endPoint>
+    </control>
+    <control controlID="88516CE1-6FD9-45B0-B7B5-CF601E3EB841" controlTypeID="TextInput" x="19" y="206" w="284" h="27" zOrder="5">
+      <borderColor>6710886</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="set+city">
+          <area shape="0" alt="" ID="{F0F05FA4-8DDB-467E-ABE5-776C9FA1CA2F}" coords="(0,0,284,27)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>What's+your+home+city%3F</text>
+      <textColor>4291611852</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B1CDDD77-DB95-47C4-841E-883BF8F26DEE" controlTypeID="Icon" x="328" y="214" w="15" h="15" zOrder="6">
+      <color>4294901886</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoFont</iconFontName>
+        <iconCode>59116</iconCode>
+      </icon>
+      <URL>20AB30DAD2C367534A2EC8B12290495E.svg</URL>
+    </control>
+    <control controlID="152EA4D1-E6FE-49BD-B243-AE114911FA2E" controlTypeID="TextArea" x="24" y="255" w="325" h="69" zOrder="7">
+      <borderColor>4282664004</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>We'll+use+your+home+city+to+give+you+the+right+suggestions+at+the+right+time%2C+whether+you're+traveling+or+right+at+home.</text>
+      <textColor>4284900966</textColor>
+      <textSize>15</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
