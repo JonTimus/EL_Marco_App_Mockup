@@ -1,10 +1,11 @@
-﻿# EL_Marco_App_Mockup
+# EL_Marco_App_Mockup
+
+https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png
+![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png?raw=false)
+![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/welcome.png?raw=false)
+![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/select.png?raw=false)
 
 ## Preview tips
-
-![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.jpg?raw=false)
-![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/welcome.jpg?raw=false)
-![alt text](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/select.jpg?raw=false)
 
 1. The index.html file can be opened directly in local browser. This method is recommended for local preview.
 
