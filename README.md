@@ -1,6 +1,6 @@
 # EL_Marco_App_Mockup
 
-<a href="url"><img src="https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png" align="left" height="480" width="480" ></a>
+<a href="url"><img src="https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/home.png" align="left" height="880" width="480" ></a>
 
 ![welcome](https://github.com/JonTimus/EL_Marco_App_Mockup/blob/main/pics/welcome.png?raw=false)
 
